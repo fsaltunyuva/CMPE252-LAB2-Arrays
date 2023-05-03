@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/user/CLionProjects/CMPE252-Lab2-Q1/cmake-build-debug"
+			"value" : "c:/Users/user/Desktop/GitHub/CMPE252-Lab2-Q1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/user/CLionProjects/CMPE252-Lab2-Q1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/user/Desktop/GitHub/CMPE252-Lab2-Q1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/user/CLionProjects/CMPE252-Lab2-Q1"
+			"value" : "C:/Users/user/Desktop/GitHub/CMPE252-Lab2-Q1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/user/CLionProjects/CMPE252-Lab2-Q1/cmake-build-debug"
+			"value" : "C:/Users/user/Desktop/GitHub/CMPE252-Lab2-Q1/cmake-build-debug"
 		},
 		{
 			"name" : "CMPE252_Lab2_Q1_IS_TOP_LEVEL",
@@ -1143,7 +1143,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/user/CLionProjects/CMPE252-Lab2-Q1"
+			"value" : "C:/Users/user/Desktop/GitHub/CMPE252-Lab2-Q1"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
